@@ -1,0 +1,482 @@
+name,age,gender,place of death,date of death,cause of death,source,hrana confirmation
+Mohsen Mohammadi,28.0,Man,Divandarreh,2022-09-19,Bullet wound,HRANA,Confirmed
+Foad Ghadimi,40.0,Man,Divandarreh,2022-09-21,Bullet wound,Kurdpa,Confirmed
+Zakaria Khayal (Soleimani),16.0,Boy,Piranshahr,2022-09-20,Bullet wound,HRANA,Confirmed
+Reza Lotfi,25.0,Man,Dehgolan,2022-09-19,Bullet wound,HRANA,Confirmed
+Mino Majidi,62.0,Woman,Kermanshah,2022-09-20,Bullet wound,HRANA,Confirmed
+Fereydoun Mahmoudi,32.0,Man,Saqez,2022-09-19,Bullet wound,HRANA,Confirmed
+Farjad Darvishi,23.0,Man,Urmia,2022-10-05,Bullet wound,HRANA,Confirmed
+Mohsen Kaysari,31.0,Man,Ilam,2022-10-17,Bullet wound,Radio Farda,Confirmed
+Amir Mohammad Nowrozi,18.0,Man,Bandar Anzali,2022-09-21,Bullet wound,Iran Human Rights,Confirmed
+Abdullah Mahmoudpour,16.0,Boy,Urmia,2022-10-10,Bullet wound,Kurdpa,Confirmed
+Fardin Bakhtiari,,Man,Sanandaj,2022-11-02,Bullet wound,HRANA,Confirmed
+Amin Maarofi (Knowledge),16.0,Boy,Oshnavieh,2022-09-21,Bullet wound,HRANA,Confirmed
+Sadruddin Litani,27.0,Man,Oshnavieh,2022-09-21,Bullet wound,Kurdpa,Confirmed
+Danesh Rahnama,25.0,Man,Urmia,2022-09-20,Bullet wound,Kurdpa,Confirmed
+Rozbeh Khadamiyan,31.0,Man,Karaj,2022-09-21,Bullet wound,Social Media,Confirmed
+Milan Haghighi,21.0,Man,Oshnavieh,2022-09-21,Bullet wound,HRANA,Confirmed
+Mohammad Hossein Sarvi,,Man,Garmsar,2022-09-20,Unknown,HRANA,Confirmed
+Milad Zare,25.0,Man,Babol,2022-09-21,Unknown,HRANA,Confirmed
+Pedram Azarnoosh,18.0,Man,Dehdasht,2022-09-22,Bullet wound,HRANA,Confirmed
+Mehrdad Behnam Asl,27.0,Man,Dehdasht,2022-09-22,Bullet wound,HRANA,Confirmed
+Hanane Kiakajuri (Kia),22.0,Woman,Nowshahr,2022-09-21,Bullet wound,HRANA,Confirmed
+Ghazaleh Chalavi,33.0,Woman,Amol,2022-09-21,Bullet wound,HRANA,Confirmed
+Reza Shahparnia,23.0,Man,Kermanshah,2022-09-20,Bullet wound,Social Media,Confirmed
+Farzin Lotfi,26.0,Man,Rezvanshahr,2022-09-20,Bullet wound,Iran Human Rights,Confirmed
+Sasan Ghorbani,31.0,Man,Rezvanshahr,2022-09-22,Bullet wound,Iran Human Rights,Confirmed
+Yasin Jamalzadeh,29.0,Man,Rezvanshahr,2022-09-22,Bullet wound,HRANA,Confirmed
+Hajar Abbasi,70.0,Woman,Mahabad,2022-09-19,Bullet wound,Social Media,Confirmed
+Yasser Jafari,,Man,Ilam,2022-09-21,Unknown,Social Media,Under review
+Erfan Rezaei Navai,21.0,Man,Amol,2022-09-21,Bullet wound,HRANA,Confirmed
+Mohammad Falah,33.0,Man,Amol,2022-09-21,Bullet wound,HRANA,Confirmed
+Amir Ali (Anoushirvan) Fuladi,16.0,Boy,Eslamabad-e-Gharb,2022-09-21,Bullet wound,Kurdpa,Confirmed
+Saeed Mohammadi,21.0,Man,Eslamabad-e-Gharb,2022-09-21,Bullet wound,Kurdpa,Confirmed
+Parsa Rezadoost,18.0,Man,Hashtgerd,2022-09-22,Bullet wound,HRANA,Confirmed
+Javad Heydari,39.0,Man,Qazvin,2022-09-21,Bullet wound,HRANA,Confirmed
+Mehsa Mogoi,18.0,Woman,Fuladshahr,2022-09-22,Bullet wound,HRANA,Confirmed
+Hadis Najafi,22.0,Woman,Karaj,2022-09-21,Bullet wound,HRANA,Confirmed
+Seyed Sina Loh Mousavi,20.0,Man,Amol,2022-09-22,Bullet wound,Social Media,Confirmed
+Mehdi Asgari,25.0,Man,Garmsar,2022-09-21,Bullet wound,Amnesty International,Confirmed
+Iman Mohammadi,30.0,Man,Eslamabad-e-Gharb,2022-09-21,Bullet wound,Kurdpa,Confirmed
+Hossein Ali kia kajuri,23.0,Man,Nowshahr,2022-09-21,Bullet wound,Social Media,Confirmed
+Abdolsalam ghader golvani,32.0,Man,Oshnavieh,2022-09-26,Unknown,Kurdpa,Confirmed
+Mohammad Reza Eskandari,25.0,Man,Varamin,2022-09-22,Bullet wound,Social Media,Confirmed
+Mohammad Zamani,16.0,Boy,Tehran,2022-10-07,Unknown,HRANA,Confirmed
+Kanan Aghaei,20.0,Man,Karaj,2022-09-21,Bullet wound,Social Media,Confirmed
+Hamid Foulavand,,Man,Varamin,2022-09-23,Bullet wound,HRANA,Confirmed
+Behnam Layegh por,36.0,Man,Rasht,2022-09-23,Bullet wound,HRANA,Confirmed
+Seyed Mehdi Mousavi Niko,16.0,Boy,Zanjan,2022-09-22,Bullet wound,Social Media,Under review
+Mehrdad Ghorbani,18.0,Man,Zanjan,2022-09-21,Bullet wound,Social Media,Confirmed
+Mohammad Hasan Turkaman,27.0,Man,Babol,2022-09-21,Bullet wound,Social Media,Confirmed
+Samad Barghinia,52.0,Man,Piranshahr,2022-09-28,Bullet wound,Kurdpa,Confirmed
+Maziar Salmanian,,Man,Rasht,2022-09-23,Unknown,HRANA,Confirmed
+Erfan Nazarbeigi,,Man,Tehran,2022-09-23,Unknown,HRANA,Confirmed
+Arian moridi,20.0,Man,Salas Babajani,2022-10-09,Bullet wound,HalVash,Under review
+Seyedeh Amene Vahdat Hosseini,,Woman,Karaj,2022-09-23,Unknown,HRANA,Confirmed
+Mahmoud Keshvari,35.0,Man,Karaj,2022-09-24,Unknown,Social Media,Confirmed
+Afshin Shahamat,,Man,Tehran,2022-09-23,Unknown,HRANA,Confirmed
+Siavash Mahmoudi,16.0,Boy,Tehran,2022-11-04,Bullet wound,HRANA,Confirmed
+Nika Shakarami,16.0,Girl,Tehran,2022-10-08,Unknown,HRANA,Confirmed
+Mahmoud Brahui,18.0,Man,Zahedan,2022-09-30,Unknown,Social Media,Confirmed
+Khalil Ghanbarzahi tanha,,Man,Zahedan,2022-09-30,Unknown,Social Media,Under review
+Mohammad Sedigh (Rafe) Naroei,23.0,Man,Zahedan,2022-09-30,Bullet wound,HalVash,Confirmed
+Sarina Ismailzadeh,16.0,Girl,Karaj,2022-09-29,Unknown,HRANA,Confirmed
+Mohammad Javad Farmani,24.0,Man,Tehran,2022-10-08,Bullet wound,Amnesty International,Confirmed
+Mehrzad Avazpour Kakrodi (Behnam Rad),,Man,Nowshahr,2022-09-21,Bullet wound,Amnesty International,Confirmed
+Jalil Rakhshani,20.0,Man,Zahedan,2022-09-30,Bullet wound,HalVash,Confirmed
+Abdul Majid Rigi (Shahouzehi),27.0,Man,Zahedan,2022-09-30,Bullet wound,HRANA,Confirmed
+Mohammad Ali Gamshadzehi,21.0,Man,Zahedan,2022-09-30,Unknown,HalVash,Confirmed
+Yaser Shah Bakhsh,,Man,Zahedan,2022-09-30,Unknown,HalVash,Confirmed
+Mokhtar Ahmadi,19.0,Man,Marivan,2022-10-01,Bullet wound,Kolbar News,Confirmed
+Hamzeh Naroei,,Man,Zahedan,2022-09-30,Bullet wound,HalVash,Confirmed
+Hamid Naroei,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Hamzeh Naroei,26.0,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Yunus Naroei,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Mansour Rakhshani,23.0,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Ali Agheli (Naroei),28.0,Man,Zahedan,2022-09-30,Unknown,HalVash,Confirmed
+umran Shah Bakhsh,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Farzad Shah Bakhsh,,Man,Zahedan,2022-09-30,Bullet wound,HalVash,Confirmed
+Ahmad Shah Bakhsh,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Abdul Malek Shah Bakhsh,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Mohammad Amin Gamshadzehi,17.0,Boy,Zahedan,2022-09-30,Unknown,HalVash,Confirmed
+Salahedin Gamshadzehi,27.0,Man,Zahedan,2022-09-30,Bullet wound,HalVash,Confirmed
+Poya Rajab Nia,24.0,Man,Babolsar,2022-10-01,Unknown,Social Media,Under review
+Balal Anshini,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Abdul Ghafoor Noorbrahoei,39.0,Man,Zahedan,2022-09-30,Bullet wound,HalVash,Confirmed
+Mohammad Brahoei,,Man,Zahedan,2022-09-30,Unknown,HalVash,Confirmed
+Abdul Samad Brahoei (eydozehi),,Man,Zahedan,2022-09-30,Unknown,HalVash,Confirmed
+Lal Mohammad Ali Zehi,,Man,Zahedan,2022-09-30,Bullet wound,HalVash,Under review
+Abubakr Nahtani,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Musa Nahtani (Anshini),,Man,Zahedan,2022-09-30,Unknown,HalVash,Confirmed
+Mohammad gholjaei,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Aminullah gholjaei,,Man,Zahedan,2022-09-30,Unknown,HalVash,under review
+Mohammad Rigi,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Samer Hashemzehi,16.0,Boy,Zahedan,2022-09-30,Bullet wound,HalVash,Confirmed
+Sami Hashemzehi,33.0,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Abdul Rahman Balochi Khah,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Mohammad Reza Adib Totazehi,25.0,Man,Zahedan,2022-09-30,Unknown,HalVash,Confirmed
+Mohammad Omar Shahnavazi,,Man,Zahedan,2022-09-30,Bullet wound,HalVash,Under review
+Abdul Khalegh (Omar) Shahnavazi,35.0,Man,Zahedan,2022-09-30,Bullet wound,HalVash,Confirmed
+Amirhamzeh Shahnavazi,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Ali Akbar Brahoei,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Jalil Ghanbarzehi,,Man,Zahedan,2022-09-30,Unknown,HalVash,Confirmed
+Nematullah Kabdani,,Man,Zahedan,2022-09-30,Bullet wound,HalVash,Confirmed
+Abdul Samad Sabeti zadeh (Shahouzehi),27.0,Man,Zahedan,2022-09-30,Bullet wound,HalVash,Confirmed
+Ebrahim Gargij,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Ahmad Sargolzaei,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Mohammad Farogh Rakhshani,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Ali Akbar halghe begosh,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Abubakr Alizehi,25.0,Man,Zahedan,2022-09-30,Bullet wound,HalVash,Confirmed
+Hamid Isa Zehi,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Jalil Mohammadzehi,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Omid Shahnavazi,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Amin gale bache,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Amir Hossein Basati,15.0,Boy,Kermanshah,2022-09-21,Bullet wound,Kurdpa,Confirmed
+Poya Sheyda,18.0,Man,Urmia,2022-09-21,Unknown,Social Media,Under review
+Umran Hassan Zehi,18.0,Man,Zahedan,2022-09-30,Bullet wound,HalVash,Confirmed
+Mohsen Gamshadzehi,,Man,Zahedan,2022-09-30,Unknown,HalVash,Confirmed
+Mahmoud Shahnavazi,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+(unknown first name) Gangozehi Rigi,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Hasti Naroei,6.0,Girl,Zahedan,2022-09-30,Got hit by a tear gas grenade and suffocation,HalVash,Confirmed
+Amirhossein Parnian (Mirkazehi Rigi),19.0,Man,Zahedan,2022-09-30,Bullet wound,HalVash,Confirmed
+Esmaeil Hossein Zehi,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Omid Sarani,13.0,Boy,Zahedan,2022-09-30,Unknown,HalVash,Confirmed
+Shirin Alizadeh,35.0,Woman,Chalus,2022-09-22,Bullet wound,Social Media,Confirmed
+Salman Maleki,25.0,Man,Zahedan,2022-10-02,Bullet wound,HalVash,Confirmed
+Jamal Abdul Naser Mohammad Hasani (Brahoei),,Man,Zahedan,2022-10-02,Bullet wound,HalVash,Confirmed
+Mohammadreza Sarvari,14.0,Boy,Rey,2022-09-22,Bullet wound,HRANA,Confirmed
+Ali Mozafari Salanghoch,17.0,Boy,Quchan,,Bullet wound,Social Media,Under review
+Mehrab Dolat Panah,,Man,Talesh,2022-09-22,Bullet wound,Social Media,Confirmed
+Amirreza Naderzadeh,19.0,Man,Nowshahr,2022-09-28,Unknown,Social Media,Under review
+Hamid Naroei,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Abdullah Naroei,,Man,Zahedan,2022-09-30,Unknown,HalVash,Confirmed
+Mohammad Ali Ismail Zehi (Sheh Bakhsh),,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Majid Balochzehi Shah Bakhsh,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Mehdi Anshini,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Balal Rakhshani,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Mohammad eghbal Nayebzehi Shahnavazi,16.0,Boy,Zahedan,2022-09-30,Bullet wound,HalVash,Confirmed
+Arman Hassan Zehi,,Man,Zahedan,2022-10-02,Unknown,HalVash,Under review
+Morteza Hassan Zehi,,Man,Zahedan,2022-10-02,Unknown,HalVash,Under review
+Zulfaghar Hasan Zehi,,Man,Zahedan,2022-10-02,Unknown,HalVash,Under review
+Mahmoud Hassan Zehi,,Man,Zahedan,2022-10-02,Unknown,HalVash,Under review
+Sadis Keshani,14.0,Boy,Zahedan,2022-09-30,Unknown,HalVash,Confirmed
+Abdul Ghafoor Dehmordeh,,Man,Zahedan,2022-09-30,Unknown,HalVash,Confirmed
+Esmail Abil,,Man,Zahedan,2022-09-30,Unknown,HalVash,Confirmed
+Suleiman Arab,,Man,Zahedan,2022-09-30,Unknown,HalVash,Confirmed
+Ahmad Sarani (Jama Alizehi),26.0,Man,Zahedan,2022-09-30,Bullet wound,HalVash,Confirmed
+Javad Posheh,11.0,Boy,Zahedan,2022-09-30,Bullet wound,HalVash,Confirmed
+Mahedin Shirouzehi,,Man,Zahedan,2022-10-03,Unknown,HalVash,Under review
+Jaber Shirouzehi,12.0,Boy,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Saeed Gargij,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Lal Mohammad Anshini,,Man,Zahedan,2022-09-30,Unknown,HalVash,Confirmed
+Khodanoor Lajei,27.0,Man,Zahedan,2022-10-02,Bullet wound,HalVash,Confirmed
+Ehsan Khan Mohammadi,29.0,Man,Tehran,2022-10-24,Bullet wound,Social Media,Confirmed
+Amir Mahdi Farokhipour,17.0,Boy,Tehran,2022-10-19,Unknown,Social Media,Confirmed
+Mohammad Zarei,,Man,Qarchak,2022-09-22,Bullet wound,Social Media,Under review
+Abdul Jalil Rakhshani,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Musa Doira (Naroei),18.0,Man,Zahedan,2022-09-30,Bullet wound to heart and lung,HalVash,Confirmed
+Matin Ghanbarzehi,18.0,Man,Zahedan,2022-09-30,Bullet wound,HalVash,Confirmed
+Abdulmanan Rakhshani,,Man,Zahedan,2022-09-30,Unknown,HalVash,Confirmed
+(uncertain first name) Mirshekar,2.0,Girl,Zahedan,2022-10-03,Unknown,HalVash,Under review
+Arash Pahlavan,27.0,Man,Mashhad,2022-09-21,Bullet wound,Social Media,Under review
+Mohsen Mal Mir,,Man,Nowshahr,2022-09-21,Bullet wound,Social Media,Confirmed
+Mehdi Leilazi,,Man,Karaj,2022-09-22,Bullet wound,Social Media,Under review
+Hadiye Naimani,25.0,Woman,Nowshahr,2022-09-23,Bullet wound,Social Media,Under review
+Abolfazl Mehdipour Roshan,20.0,Man,Babol,2022-09-21,Bullet wound,Social Media,Confirmed
+Amirhossein Shams Nateri,,Man,Nowshahr,2022-09-21,Bullet wound,Social Media,Confirmed
+Saeed Iranmanesh,,Man,Kerman,,Bullet wound,Social Media,Under review
+Gholam Nabi Notizehi,,Man,Zahedan,2022-09-30,Unknown,Baloch Activists Campaign,Confirmed
+Abulfazl Akbari Dost,,Man,Langrud,,Bullet wound,Social Media,Confirmed
+Erfan Khazai,30.0,Man,Shahriar,2022-09-21,Bullet wound,Social Media,Confirmed
+Mehdi Bebrnejhad,22.0,Man,Quchan,2022-09-21,Bullet wound,Social Media,Under review
+Roshana Ahmadi,,Woman,Bukan,2022-10-12,Bullet wound,Social Media,Under review
+Mohammad Hosseini Khah,20.0,Man,Sari,2022-09-22,Bullet wound,Social Media,Under review
+Mehrdad Avazpour,,Man,Nowshahr,2022-09-22,Bullet wound,Social Media,Under review
+Mohammad Rasul Momenizadeh,23.0,Man,Rasht,2022-10-12,Bullet wound,Social Media,Confirmed
+Mohsen Pazouki,22.0,Man,Varamin,2022-09-21,Bullet wound,Social Media,Under review
+Emad Heydari,31.0,Man,Ahvaz,2022-11-05,Died in Custody,Social Media,Under review
+Behzad Rigi,30.0,Man,Zahedan,2022-09-30,Bullet wound,HalVash,Confirmed
+Mohammad Jameh Bozorg,,Man,Karaj,2022-09-25,Bullet wound,BBC,Confirmed
+Sasan Bagheri,,Man,Rezvanshahr,2022-09-22,Bullet wound,Social Media,Under review
+Alireza Fathi,26.0,Man,Qazvin,2022-09-21,Bullet wound,Social Media,Under review
+Seyed Abbas Mirmousavi,,Man,Langrud,2022-09-21,Bullet wound,Social Media,Confirmed
+Seyed Alireza Hosseini,26.0,Man,Tehran,2022-09-20,Bullet wound,Social Media,Under review
+Javad Khansari,36.0,Man,Tehran,2022-09-22,Lung damage from tear gas,Social Media,Under review
+Abdul Vahid Tohid Nia,,Man,Zahedan,2022-09-30,Bullet wound,HalVash,Confirmed
+Amir Hossein Mahdavi,,Man,Rasht,2022-09-21,Assault,Social Media,Under review
+Ehsan Alibazi,16.0,Boy,Qods,2022-09-23,Bullet wound,Social Media,Under review
+Morteza Nowrozi,22.0,Man,Langrud,2022-09-24,Bullet wound,Social Media,Confirmed
+Mohammad Hossein Marevatti,18.0,Man,Varamin,2022-09-25,Bullet wound,HRANA,Confirmed
+Pooya (Ali) Ahmadpour Pasikhani,17.0,Boy,Rasht,2022-09-21,Bullet wound,Iranian Educators' Trade Union Coordinating Council,Under review
+Mohsen Mohammadi Kochaksaraei,37.0,Man,Qaemshahr,2022-09-20,Bullet wound,Social Media,Confirmed
+Hamid Saneipour,30.0,Man,Hamedan,2022-09-29,Bullet wound,Social Media,Confirmed
+Mohammad Amin Takeli,,Man,Tehran,2022-09-21,Got hit by a tear gas grenade,Social Media,Confirmed
+Aisan Madan pasand,,Woman,Tabriz,2022-09-19,Assault,Social Media,Under review
+Omid Safarzehi,17.0,Boy,Zahedan,2022-09-30,Bullet wound,HalVash,Confirmed
+Najmeddin Tajik,,Man,Zahedan,2022-09-30,Unknown,HalVash,Confirmed
+Lal Mohammad Anshani,,Man,Zahedan,2022-09-30,Unknown,Baloch Activists Campaign,Under review
+Nima Shafagh Dost,16.0,Boy,Urmia,2022-09-21,Bullet wound,Kurdpa,Under review
+Peyman Manbari,29.0,Man,Sanandaj,2022-10-08,Bullet wound,Kurdpa,Confirmed
+Dariush Alizadeh,,Man,Sanandaj,2022-10-08,Bullet wound,Fars,Confirmed
+Mohammad Amini,33.0,Man,Sanandaj,2022-10-08,Bullet wound,Kurdpa,Confirmed
+Yahya Rahimi (sarabshahrak),31.0,Man,Sanandaj,2022-10-08,Bullet wound,Kurdpa,Confirmed
+Mohammad Javad Zahedi Saravi,20.0,Man,Sari,2022-09-23,Bullet wound,Social Media,Confirmed
+Mohsen Mousavi,32.0,Man,Tehran,2022-09-21,Assault,HRANA,Confirmed
+Mohammad Rakhshani,12.0,Boy,Zahedan,2022-09-30,Bullet wound,HalVash,Confirmed
+Esmail Dezvar,,Man,Saqez,2022-10-10,Died in Custody,Social Media,Under review
+Seyed Ahmad Shokrollahi,24.0,Man,Isfahan,2022-10-02,Bullet wound,Social Media,Confirmed
+Yaser Shahouzehi,16.0,Boy,Zahedan,2022-09-30,Bullet wound,HalVash,Confirmed
+Mustafa Berichi,24.0,Man,Zahedan,2022-09-30,Bullet wound,HalVash,Confirmed
+Mehrab Najafi,,Man,Zarinshahr,2022-09-21,Unknown,Social Media,Under review
+Maten Abdullahpour,,Man,Urmia,2022-09-21,Unknown,Social Media,Under review
+Abdullah Shah Bakhsh,,Man,Zahedan,2022-10-01,Unknown,HalVash,Under review
+Azizullah Kebdani,,Man,Zahedan,2022-09-30,Unknown,HalVash,Confirmed
+Sina Naderi,23.0,Man,Kermanshah,2022-10-12,Bullet wound,Kurdpa,Confirmed
+Armin Sayadi,17.0,Boy,Kermanshah,2022-10-12,Bullet wound,Kurdpa,Confirmed
+Aziz Moradi,50.0,Man,Sanandaj,2022-10-12,Bullet wound,Kurdpa,Confirmed
+Kamal Faghhi,46.0,Man,Bukan,2022-10-12,Bullet wound,Kurdpa,Confirmed
+Ali Brahoei,14.0,Boy,Zahedan,2022-09-30,Bullet wound,HalVash,Confirmed
+Abolfazl Adinezadeh,17.0,Boy,Mashhad,2022-10-08,Bullet wound,Iranian Educators' Trade Union Coordinating Council,Confirmed
+Setareh Tajik,17.0,Girl,Tehran,2022-09-22,Assault,Social Media,Confirmed
+Mustafa Shamlou,21.0,Man,Tehran,2022-09-22,Unknown,HRANA,Under review
+Hadis Abdi,16.0,Girl,Urmia,2022-09-21,Assault,Social Media,Under review
+Danial Shah Bakhsh,11.0,Boy,Zahedan,2022-09-30,Bullet wound,HalVash,Confirmed
+Omid Mahdavi,,Man,Tehran,2022-10-28,Assault,Social Media,Under review
+Ali Akbar Rabiei,40.0,Man,Isfahan,2022-10-09,Bullet wound,Social Media,Confirmed
+Arvin Malmali Golzari,18.0,Man,Fuladshahr,2022-09-22,Unknown,Social Media,Confirmed
+Farzin Farrokhi,,Man,Saqez,2022-09-19,Bullet wound,Social Media,Confirmed
+Iman Behzadpour,25.0,Man,Tehran,2022-09-19,Bullet wound,Social Media,Under review
+Negin Salehi,26.0,Woman,Tehran,2022-09-28,Assault,Social Media,Under review
+Heder Naroei Rashid,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Mohiuddin Shah Bakhsh,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Amir Mohammad Gamshadzehi,,Man,Zahedan,2022-09-30,Unknown,HalVash,Under review
+Mehregan Zahmatkesh,,Man,Rasht,2022-09-22,Unknown,Social Media,Confirmed
+Sepehr Sharifi Torgaba,20.0,Man,Tehran,2022-09-29,Bullet wound,Social Media,Confirmed
+Ramin Karami,31.0,Man,Kermanshah,2022-09-19,Bullet wound,Man o Tou,Confirmed
+Seyed Mohammad Hosseini,,Man,Bukan,2022-09-21,Got hit by a car,Social Media,Under review
+Asra Panahi Khangah,15.0,Girl,Ardabil,2022-10-12,Assault,Social Media,Confirmed
+Hamed Baji Zehi (Brahoei),,Man,Zahedan,2022-10-17,Bullet wound and Died in Custody,HalVash,Under review
+Morteza (surname unknown),14.0,Boy,Jam,2022-10-27,Bullet wound to the head,HalVash,Under review
+Ramin Fathi,50.0,Man,Sanandaj,2022-09-20,Died in Custody,Kurdpa,Confirmed
+Seyed Alireza Hosseini,23.0,Man,Tehran,2022-09-29,Bullet wound,Kurdpa,Under review
+Arnika ghaem maghami,17.0,Girl,Tehran,2022-10-22,Assault,Social Media,Under review
+Mohammad Abdullahi,36.0,Man,Ilam,2022-09-22,Died in Custody,Social Media,Under review
+Mohammad Reza Mohtasham,,Man,Qazvin,2022-09-22,Unknown,HRANA,Under review
+Nagin Abdul Maleki,21.0,Woman,Hamedan,2022-10-12,Assault,Social Media,Under review
+Sina Malayeri,34.0,Man,Arak,2022-10-22,Assault,Social Media,Confirmed
+Mohammad Khajavi dareh balaei,38.0,Man,Dezful,2022-10-22,Bullet wound,Social Media,Confirmed
+Hossein Mohammadi,,Man,Kermanshah,2022-09-20,Unknown,Amnesty International,Under review
+Meghdad Azizi,,Man,Tehran,,Unknown,HRANA,Under review
+Esmail (Semko) Molodi,35.0,Man,Mahabad,2022-10-26,Bullet wound,Kurdpa,Confirmed
+Mohammad Shariati,25.0,Man,Sanandaj,2022-09-21,Bullet wound,Kurdpa,Confirmed
+Abulfazl Baho,17.0,Boy,Qaemshahr,2022-09-21,Bullet wound,Social Media,Under review
+Rahim Kalij,25.0,Man,Qaemshahr,2022-09-21,Bullet wound,Social Media,Confirmed
+Afshin Asham,28.0,Man,Qasreshirin,2022-10-26,Bullet wound,Kurdpa,Confirmed
+Kubra Sheikh Sagha (Sheikhi),52.0,Woman,Mahabad,2022-10-27,Bullet wound,Kurdpa,Confirmed
+Shahu Khezri,,Man,Mahabad,2022-10-27,Bullet wound,Kurdpa,Confirmed
+Zaniar Abubakri,,Man,Mahabad,2022-10-27,Bullet wound,Kurdpa,Confirmed
+Motaleb Saeedpiro,40.0,Man,Baneh,2022-10-27,Bullet wound,Kurdpa,Confirmed
+Maedeh Javanfar,28.0,Woman,Rasht,2022-10-26,Unknown,Social Media,Confirmed
+Mehrshad Shahidinejhad Monfared Tehrani,19.0,Man,Arak,2022-10-26,Assault,Social Media,Confirmed
+Fereydoun Faraji,28.0,Man,Baneh,2022-10-27,Bullet wound,Kurdpa,Confirmed
+Mohammad Keyvan Darvishi,42.0,Man,Sanandaj,2022-10-26,Bullet wound,HRANA,Confirmed
+Mohammad Lotf Elahi,,Man,Sanandaj,2022-10-26,Bullet wound,Kurdpa,Under review
+Dastan Rasol,,Man,Baneh,2022-10-27,Bullet wound,Kurdpa,Under review
+Sadaf Movahedi,17.0,Girl,Tehran,2022-10-01,Assault,Social Media,Under review
+Sarina Saedi,16.0,Girl,Sanandaj,2022-10-26,Assault,Kurdpa,Confirmed
+Masoud Ahmadzadeh,,Man,Mahabad,2022-10-27,Bullet wound,Kurdpa,Confirmed
+Seyed Ali Seyedi,25.0,Man,Parand,2022-10-26,Bullet wound,Social Media,Confirmed
+Fereshte Ahmadi,33.0,Woman,Mahabad,2022-10-28,Bullet wound,Kurdpa,Confirmed
+(unknown first name) Kebdani,12.0,Boy,Zahedan,2022-10-28,Bullet wound,Baloch Activists Campaign,Under review
+Reza Esmailzadeh,30.0,Man,Tehran,,Bullet wound,Social Media,Under review
+Mehdi Farahani,17.0,Boy,Khorramshahr,,Unknown,Iranian Educators' Trade Union Coordinating Council,Under review
+Parisa Bahmani,,Woman,Tehran,,Bullet wound,Social Media,Under review
+Adel Kochakzaei (Berichi),15.0,Boy,Zahedan,2022-10-28,Bullet wound,HalVash,Confirmed
+Aynaz Javaheri,15.0,Girl,Kermanshah,2022-10-08,Unknown,Social Media,Under review
+Sarina Shiri,19.0,Woman,Javanrud,,Unknown,Social Media,Under review
+Omid Naroei,15.0,Boy,Zahedan,2022-10-28,Bullet wound,HalVash,Confirmed
+Hadi Hagh shenas,,Man,Isfahan,2022-10-26,Unknown,Social Media,Under review
+Aref Gholampour,,Man,Lasht-e Nesha,2022-11-03,Bullet wound,Social Media,Confirmed
+Behnaz Afshari,20.0,Woman,Pakdasht,2022-10-26,Unknown,Social Media,Under review
+Parmis Homnava,14.0,Girl,Iranshahr,2022-10-25,beat,HalVash,Under review
+Kumar Daroftadeh,16.0,Boy,Piranshahr,2022-10-29,Bullet wound,Kurdpa,Confirmed
+Hamidreza Malmir,,Man,Malard,2022-10-26,Unknown,Social Media,Under review
+Ebrahim Mirzaei,42.0,Man,Sanandaj,2022-10-26,Hit by a tear gas grenade,Social Media,Under review
+Helen Ahmadi,7.0,Girl,Bukan,,Bullet wound,Children's Aid Association,Under review
+Fardin Abdkhoda,,Man,Saqez,2022-09-21,Bullet wound,HRANA,Confirmed
+Mohammad Saremi,,Man,Borujerd,2022-10-31,Bullet wound,Social Media,Under review
+Yousef Raisi,,Man,Lashar,2022-10-31,Died in Custody,HalVash,Under review
+Diana Mahmoudi,8.0,Girl,Piranshahr,2022-10-30,Bullet wound,Social Media,Under review
+Saman Ghadirpour,37.0,Man,Tehran,2022-09-29,Died in Custody,Social Media,Under review
+Marziyeh Doshen Ziyari,22.0,Woman,Shiraz,2022-10-25,Assault,Social Media,Under review
+Esmail Heydari,18.0,Man,Chalus,2022-09-22,Unknown,Social Media,Under review
+Milad Javidpour,,Man,Tehran,,Unknown,Social Media,Under review
+Amir Hossein Rumiani Nazari,26.0,Man,Tehran,,Unknown,Social Media,Under review
+Maysam Hadipur,33.0,Man,Nowshahr,2022-11-02,Bullet wound,HRANA,Under review
+Momen Zand Karimi,18.0,Man,Sanandaj,2022-10-26,Bullet wound,Kurdpa,Confirmed
+Nasim Sedghi,23.0,Woman,Urmia,2022-10-31,Bullet wound,BBC,Under review
+Erfan Zamani,23.0,Man,Lahijan,2022-11-03,Bullet wound,Social Media,Confirmed
+Yaser Naroei,25.0,Man,Zahedan,2022-11-03,Bullet wound,Student Trade Union Council,Under review
+Sadegh Aramesh (Brahoei),,Man,Khash,2022-11-04,Bullet wound,HalVash,Under review
+Mehran Shekari (Noei),,Man,Karaj,2022-11-03,Unknown,Social Media,Confirmed
+Nasrin Ghaderi,38.0,Woman,Tehran,,Assault,Kurdpa,Under review
+Nima Noori,18.0,Man,Karaj,2022-11-03,Bullet wound,Social Media,Confirmed
+Mohammad Shah Bakhsh (Mirbalochzehi),,Man,Khash,2022-11-04,Unknown,Baloch Activists Campaign,Under review
+Mobin Mirkazehi,14.0,Boy,Khash,2022-11-04,Unknown,Baloch Activists Campaign,Under review
+Azim Mahmoudzehi,37.0,Man,Khash,2022-11-04,Bullet wound,Baloch Activists Campaign,Confirmed
+Rahim Dad Shahlibar,,Man,Khash,2022-11-04,Unknown,Baloch Activists Campaign,Under review
+Kambiz Rigi,,Man,Khash,2022-11-04,Unknown,HalVash,Under review
+Saeed Sohrab Zahi,,Man,Khash,2022-11-04,Unknown,HalVash,Under review
+Ali Kurd Kulahouri (Moradzehi),25.0,Man,Khash,2022-11-04,Unknown,HalVash,Confirmed
+Yaser Bahadurzehi,17.0,Boy,Khash,2022-11-04,Unknown,HalVash,Confirmed
+Abdul Malek Shahnavazi (Kamal Khan Zehi),,Man,Khash,2022-11-04,Unknown,HalVash,Under review
+Yunes Salahshuran (Mirbaluch Zehi),,Man,Khash,2022-11-04,Unknown,HalVash,Under review
+Mohammad Hossein Salari,,Man,Mahshahr,2022-11-06,Bullet wound,Social Media,Under review
+Ahmadreza Gholji,17.0,Boy,Hamedan,2022-09-22,Unknown,Social Media,Under review
+Elahe Saeeidi,18.0,Woman,Saqez,2022-10-30,Unknown,Social Media,Under review
+Mohammad Ghaemi Far,18.0,Man,Dezful,2022-11-06,Bullet wound,HRANA,Confirmed
+Ali Rozbahani,34.0,Man,Tehran,2022-10-26,Bullet wound,Social Media,Confirmed
+Navid Badpa,23.0,Man,Tehran,,Hit on head,HRANA,Confirmed
+Mehdi Hazrati,17.0,Boy,Karaj,,Unknown,Social Media,Confirmed
+Omid Barzegar,,Man,Tehran,2022-09-21,Bullet wound,Social Media,Under review
+Mohammad Amin Hashmatian,,Man,Karaj,2022-11-03,Unknown,Social Media,Under review
+Mohammad Hossein Faraji,,Man,Tehran,2022-11-01,Bullet wound,Social Media,Under review
+Abbas Luyemi,22.0,Man,Ahvaz,2022-11-05,Got hit by a car and dying,Social Media,Under review
+Morteza Shirmohammadi,,Man,Tabriz,,Unknown,Social Media,Under review
+Mohammad Reza Ferdowsi,24.0,Man,Qarchak,2022-11-08,self-immolation,Social Media,Under review
+Fayegh mam ghaderi,37.0,Man,Mahabad,2022-11-09,Bullet wound,Kurdpa,Confirmed
+Sam (Sephehr) Biranvand,20.0,Man,Khorramabad,2022-11-09,Bullet wound,Social Media,Confirmed
+Morteza Soltanian,34.0,Man,Tehran,2022-09-29,Died in Custody,HRANA,Confirmed
+Komeil Amirkhanlo,27.0,Man,Karaj,2022-11-08,Bullet wound,Social Media,Under review
+Alireza Karimi,20.0,Man,Arak,2022-11-09,Assault,Social Media,Under review
+Mehdi Heydari,,Man,Tehran,,Bullet wound,HRANA,Under review
+Meysam Moghadasi,,Man,Tehran,,Got hit by a car,Social Media,Under review
+Kamran Shahbazi,35.0,Man,Karaj,2022-10-02,Assault,Social Media,Confirmed
+Farzaneh Kazemi,,Woman,Qazvin,2022-10-12,Bullet wound,Social Media,Under review
+Rasul Haddadi,60.0,Man,Zanjan,,Bullet wound,Social Media,Under review
+Mohammad Salehi,,Man,Sari,2022-11-05,Assault,HRANA,Under review
+Mohammadreza Bali Lashek (Lasheki),,Man,Nowshahr,2022-11-02,Hit by a tear gas grenade,HRANA,Confirmed
+Bahar Khorshidi,,Woman,Tehran,,Unknown,HRANA,Under review
+Ardalan Ghasemi,48.0,Man,Kermanshah,2022-11-10,Bullet wound,Kurdpa,Under review
+Mohammad Hossein Hajiani,27.0,Man,Bushehr,2022-11-11,Assault,HRANA,Confirmed
+Ali Abiyar,17.0,Boy,Takab,,Unknown,Social Media,Under review
+Darya Nazm deh,26.0,Woman,Karaj,2022-11-03,Assault,HRANA,Under review
+Saman Rahmani,28.0,Man,Tehran,2022-11-11,Assault,Kurdpa,Under review
+Hamid Goli,46.0,Man,Tehran,2022-11-13,Assault,Kurdpa,Confirmed
+Hamid Nastar Jahan,,Man,Mashhad,,Assault,HRANA,Under review
+Esmail Sattari,28.0,Man,Mashhad,,Died in Custody,HRANA,Under review
+Mehrshad Talatof,22.0,Man,Bampur,,Unknown,HalVash,Under review
+Fuad Mohammadi,38.0,Man,Kamyaran,2022-11-15,Bullet wound,Kurdpa,Confirmed
+Zaniar Allah Moradi,26.0,Man,Sanandaj,2022-11-15,Bullet wound,HRANA,Confirmed
+Isa Bigleri,39.0,Man,Sanandaj,2022-11-15,Bullet wound,Kurdpa,Confirmed
+Milad Saeidi,16.0,Boy,Tonekabon,2022-11-15,Bullet wound,HRANA,Under review
+Saman Ghaderbeigi,33.0,Man,Bukan,2022-11-15,Bullet wound,Kurdpa,Confirmed
+Borhan Karami,30.0,Man,Kamyaran,2022-11-16,Bullet wound,HRANA,Confirmed
+Daniel Pabandi,17.0,Boy,Saqez,2022-11-16,Bullet wound,Kurdpa/ kulebar news,Confirmed
+Salar Mojaver,30.0,Man,Bukan,2022-11-16,Bullet wound,Kurdpa,Confirmed
+Milad Khoshkam,27.0,Man,Shiraz,,Died in Custody,HRANA,Confirmed
+Kian Pirfalak,10.0,Boy,Izeh,2022-11-16,Bullet wound,IRNA,Confirmed
+Artin Rahmani Payani,13.0,Boy,Izeh,2022-11-16,Unknown,IRNA,Confirmed
+Reza Shariati,25.0,Man,Izeh,2022-11-16,Unknown,IRNA,Confirmed
+Ashraf Nikbakht,45.0,Woman,Izeh,2022-11-16,Unknown,IRNA,Confirmed
+Mohammad Hassanzadeh,28.0,Man,Bukan,2022-11-16,Bullet wound,Kurdpa,Confirmed
+Ali Abbasi,23.0,Man,Semirom,2022-11-16,Unknown,Social Media,Confirmed
+Murad Bahramian,,Man,Semirom,2022-11-16,Unknown,Saham News,Confirmed
+Moslem Hoshangi,,Man,Semirom,2022-11-16,Unknown,Saham News,Confirmed
+Sajad Rashidi,,Man,Semirom,2022-11-16,Unknown,Saham News,Under review
+Mohammad Soltani,,Man,Semirom,2022-11-16,Unknown,Saham News,Under review
+Asad Rahimi,30.0,Man,Bukan,2022-11-16,Bullet wound,Kurdpa,Confirmed
+Milad Asefi,32.0,Man,Semirom,2022-11-16,Unknown,Social Media,Under review
+Ali Moulai,23.0,Man,Izeh,2022-11-16,Bullet wound,IRNA,Confirmed
+Abbas Shafiei,43.0,Man,Kamalshahr,2022-11-05,Bullet wound,BBC,Confirmed
+Esmail Shanbedi,29.0,Man,Shiraz,2022-10-19,Assault and Bullet wound,VOA,Under review
+Sepehr Maghsoodi,14.0,Boy,Izeh,2022-11-16,Bullet wound,BBC,Under review
+Aram Habibi,,Man,Sanandaj,2022-11-17,Bullet wound,Kurdpa,Confirmed
+Shahu Bahmani,24.0,Man,Sanandaj,2022-11-17,Bullet wound,Kurdpa,Confirmed
+Aylar Haghi,24.0,Woman,Tabriz,2022-11-16,Falling from the building by the security forces,HRANA,Under review
+Abdulrahman Bakhtiari,66.0,Man,Saqez,2022-11-17,Bullet wound,Kurdpa,Confirmed
+Ghafoor Molodi,65.0,Man,Bukan,2022-11-17,Bullet wound,Kurdpa,Confirmed
+Seyed Ali Araghi,22.0,Man,Tabriz,2022-11-15,beat,Social Media,Under review
+Sajad Ghaemi Bahman Biglo,30.0,Man,Shiraz,2022-11-16,Bullet wound,HRANA,Confirmed
+Asghar Aghaei,,Man,Tehran,2022-11-16,Bullet wound,HRANA,Under review
+Javad Rezaei,50.0,Man,Lahijan,2022-11-16,Unknown,Social Media,Confirmed
+Amjad Enayati,18.0,Man,Bukan,2022-11-17,Bullet wound,Kurdpa,Confirmed
+Hiva Jan Jan (Janan),,Man,Bukan,2022-11-17,Bullet wound,Kurdpa,Confirmed
+Hajhar Mam Khosravi,21.0,Man,Bukan,2022-11-17,Bullet wound,Kurdpa,Under review
+Azad Hosseinpouri,,Man,Mahabad,2022-11-17,Bullet wound,Kurdpa,Confirmed
+Hamidreza Rouhi,19.0,Man,Tehran,2022-11-17,Bullet wound,HRANA,Confirmed
+Aso Ghaderi,,Man,Baneh,2022-11-17,Bullet wound,BBC,Confirmed
+Mohammad Ahmadi Gagesh,43.0,Man,Mahabad,2022-11-18,Bullet wound,Kurdpa,Confirmed
+Mustafa Shabani,,Man,Bukan,2022-11-17,Bullet wound,Kurdpa,Under review
+Milad Marofi,23.0,Man,Bukan,2022-11-18,Bullet wound,Kurdpa,Confirmed
+Saeed Asadi,23.0,Man,Bojnurd,2022-11-15,Bullet wound,Social Media,Under review
+Arshaya (Arshaya) Soltanieh,12.0,Boy,Zanjan,2022-11-16,Bullet wound,Social Media,Under review
+Hamed Molai,35.0,Man,Dashti,2022-11-17,Bullet wound,Social Media,Confirmed
+Omid Moeidi,19.0,Man,Shiraz,2022-11-15,Unknown,Social Media,Under review
+Amir Farasati shad,,Man,Piranshahr,2022-11-18,Bullet wound,Kurdpa,Confirmed
+Kamal Ahmedpour,,Man,Mahabad,2022-11-18,Bullet wound,Kurdpa,Confirmed
+Mehran Rahmani,,Man,Mahabad,2022-11-18,Bullet wound,Kurdpa,Confirmed
+Arman Emadi,27.0,Man,Marvdasht,2022-11-19,Bullet wound,HRANA,Confirmed
+Shahriar Mohammadi,30.0,Man,Bukan,2022-11-18,Bullet wound,Kurdpa,Confirmed
+Omid Hasani,22.0,Man,Sanandaj,2022-11-18,Died in Custody,Kurdpa,Under review
+Samaneh Niknam,36.0,Woman,Shiraz,2022-11-16,Bullet wound,Social Media,Under review
+Vahid Khani,,Man,Zarinshahr,,Unknown,Social Media,Under review
+Shirko Soltani,25.0,Man,Bukan,2022-11-18,Unknown,Social Media,Under review
+Rasool Ghafouri,,Man,Mahabad,2022-11-18,Unknown,Social Media,Under review
+Seyed Javad Mosavi,38.0,Man,Isfahan,2022-11-18,Bullet wound,HRANA,Confirmed
+Mohammad Barzgar,,Man,Shiraz,2022-11-16,Bullet wound,HRANA,Under review
+Habibullah Fathi,50.0,Man,Divandarreh,2022-11-19,Bullet wound,Kurdpa,Confirmed
+Fuad Savari,,Man,Divandarreh,2022-11-19,Bullet wound,Kurdpa,Confirmed
+Hamed Sedighi,20.0,Man,Qeshm,2022-11-17,Bullet wound,Social Media,Under review
+Amir Hossein (Amir Mohammad) Daliri Langroudi,,Man,Langrud,2022-11-16,Unknown,HRANA,Under review
+Hossein Abd Panah,70.0,Man,Sanandaj,2022-11-19,Bullet wound,Kolbar News,Under review
+Rashid Rashidi,,Man,Shushtar,,Bullet wound,Free Union of Iranian Workers,Under review
+Mehran Basir Tavana,29.0,Man,Someh sara,2022-11-19,Bullet wound,HRANA,Under review
+Erfan Kakaei,50.0,Man,Javanrud,2022-11-20,Bullet wound,Kurdpa,Confirmed
+Bahauddin Veisi,16.0,Boy,Javanrud,2022-11-20,Bullet wound,Kurdpa,Confirmed
+Loghman Kakai,,Man,Javanrud,2022-11-20,Bullet wound,Kurdpa,Under review
+Taher Azizi,30.0,Man,Piranshahr,2022-11-20,Bullet wound,Kurdpa,Confirmed
+Karvan Ghader Shukri,16.0,Boy,Piranshahr,2022-11-20,Bullet wound,Kurdpa,Confirmed
+Reza Sharafi,,Man,Sisakht,2022-11-20,Died in Custody,HRANA,Confirmed
+Mohsen Niazi,25.0,Man,Dehgolan,2022-11-20,Bullet wound,Kurdpa,Confirmed
+Satar Rahimi,,Man,Marivan,2022-11-20,Bullet wound,Kolbar News,Under review
+Suleiman Shukri Yasikandi,22.0,Man,Bukan,2022-11-20,Bullet wound,Kurdpa,Confirmed
+Jalal Ghorbani Kotal,55.0,Man,Piranshahr,2022-11-20,Bullet wound,Kurdpa,Under review
+Tahsin Miri,45.0,Man,Javanrud,2022-11-21,Bullet wound,Kurdpa,Confirmed
+Johar Fatahi Mirki,,Man,Javanrud,2022-11-21,Bullet wound,Kurdpa,Under review
+Jamal Azami,,Man,Javanrud,2022-11-21,Bullet wound,Kurdpa,Confirmed
+Esmail Gol Anbar,,Man,Javanrud,2022-11-21,Bullet wound,Kurdpa,Confirmed
+Masoud Teimuri,,Man,Javanrud,2022-11-21,Bullet wound,Kurdpa,Confirmed
+Moin Ghasempour,,Man,Mashhad,2022-11-18,beat,HRANA,Under review
+Farhad Khosravi,35.0,Man,Sanandaj,2022-11-16,Bullet wound,Kurdpa,Confirmed
+Farshid Mousavi,24.0,Man,Amol,2022-11-20,beat,Social Media,Under review
+Haider Mahali,,Man,Piranshahr,2022-11-20,Bullet wound,Social Media,Under review
+Ribaz Salehi Vand,,Man,Mahabad,2022-11-22,Bullet wound,Kurdpa,Under review
+Koresh Pazhakh,20.0,Man,Kermanshah,2022-11-22,Died in Custody,HRANA,Confirmed
+Shoaib Heydari,,Man,Tehran,2022-11-19,Unknown,Social Media,Under review
+Amirjavad Asadzadeh,36.0,Man,Mashhad,2022-11-19,Died in Custody,Social Media,Under review
+Edris Gharibzadeh,38.0,Man,Bandar Abbas,2022-11-16,Died in Custody,HRANA,Under review
+Mehdi kaboli kafshgiri,15.0,Boy,Gorgan,2022-11-22,Died in Custody,Social Media,Under review
+Aram Majd,,Woman,Qaemshahr,2022-11-21,Bullet wound,Social Media,Under review
+Shomal Khadiri pur,32.0,Man,Mahabad,2022-11-24,Bullet wound,Kurdpa,Under review
+hosein shirazi por,39.0,Man,Shiraz,2022-11-19,Bullet wound,Social Media,Under review
+Alireza Shojaei,24.0,Man,Behbahan,2022-11-16,Bullet wound,Social Media,Under review
+Ali akbar heydar zadeh,,Man,Kashmar,2022-11-23,Bullet wound,Social Media,Under review
+Sa'di Shahrokhi Pour,40.0,Man,Bukan,2022-11-22,bullet wound,Social Media,Under review
+Maryam Ghorbani Pour,,Woman,Shahrekord,,Assault,HRANA,Under review
+Mariya (mahsa) ghavasiye,24.0,Woman,Shiraz,,Unknown,Kolbar News,Under review
+Himan Aman,26.0,Man,Bukan,2022-11-24,Died in Custody,Kurdpa,Confirmed
+Milad Saeidiyan jo,27.0,Man,Izeh,2022-11-16,Bullet wound,Social Media,Under review
+Mohammad Khalili,21.0,Man,Mashhad,2022-11-23,Unknown,HRANA,Under review
+Mohammad Hossein kamandlo,17.0,Boy,Tehran,2022-11-22,Bullet wound,Social Media,Under review
+Shoresh Niknam,34.0,Man,Mahabad,2022-11-27,Bullet wound,Kolbar News,Under review
+Reza Kazemi,16.0,Boy,Kamyaran,2022-11-27,Bullet wound,Kurdpa,Under review
+Masuod Dolatshahi,38.0,Man,Tehran,2022-11-28,Bullet wound,BBC,Under review
+Amir mahdi Hasani,23.0,Man,Quchan,2022-10-07,burn,Social Media,Under review
+Ebrahim Sharifi,29.0,Man,Bukan,2022-11-29,Bullet wound,Social Media,Under review
+Atefe Naami,37.0,Woman,Karaj,,Unknown,Iranwire,Under review
+Amin Khanlo,16.0,Boy,Tehran,2022-11-28,Died in Custody,Social Media,Under review
+Jabar Farghizadeh,36.0,Man,Marivan,2022-11-24,Bullet wound,Social Media,Under review
+Negin Radfar,22.0,Woman,Sanandaj,2022-11-19,Bullet wound,Social Media,Under review
+Mehran Samaak,27.0,Man,Bandar Anzali,2022-11-30,Bullet wound,ILNA,Confirmed
+Hasan Naseri khor,,Man,Mashhad,2022-11-26,Died in Custody,Social Media,Under review
+Avat Ghaderpor,20.0,Man,Bukan,2022-11-30,Bullet wound,Kurdpa,Under review
+Farzin Marofi,,Man,Tehran,2022-11-30,Bullet wound,Kolbar News,Under review
+Hamed Salahshor,25.0,Man,Izeh,,Died in Custody,HRANA,Confirmed
+Ehsan Ghasemifard,,Man,Karaj,2022-11-30,Assault,Social Media,Under review
+Sanaz Keshavarz,,Woman,Karaj,2022-11-26,Bullet wound,Social Media,Under review
+Mona Chamani,,Woman,Rasht,2022-11-29,Unknown,Social Media,Under review
+Yusef Ghanbarzadegan Darabi,,Man,Shiraz,2022-11-17,Bullet wound,Social Media,Under review
+Asghar Hajhir Lotf,39.0,Man,Tehran,2022-11-16,Bullet wound,Social Media,Under review
+Hainye Moradi Nejhad,24.0,Woman,Yazd,2022-11-16,Bullet wound,Social Media,Under review
+Mohammad Moradi,,Man,Tehran,,Unknown,Social Media,Under review
+Rohallah Abedini,,Man,Tehran,2022-12-01,Bullet wound,Kolbar News,Under review
+Yazdan Aghajani,38.0,Man,Shahriar,,Unknown,Social Media,Under review
+Milad Zamani,31.0,Man,Karaj,2022-11-01,Assault,Social Media,Under review
+Reza Dehbovaid,29.0,Man,Sari,2022-12-04,Died in Custody,irna,Under review
+Amir mohammad Rahmani por,16.0,Boy,Firuzabad,,Died in Custody,Social Media,Under review
+Sepehr Azami,24.0,Man,Karaj,2022-12-06,Bullet wound,Social Media,Under review
+Mohammad reza Ghorbani,,Man,Karaj,,Died in Custody,HRANA,Under review
+Mehdi Eydivandi,,Man,Yazdanshahr,2022-12-04,Bullet wound,Social Media,Under review
+Hooman Abdolahi,21.0,Man,Sanandaj,2022-12-07,Bullet wound,Kordpa,Under review
+Yunes Fazel beigi,,Man,Kermanshah,2022-12-07,Assault,HRANA,Under review
